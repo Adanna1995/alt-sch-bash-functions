@@ -1,0 +1,163 @@
+app form {
+    font-family: sans-serif;
+}
+#section1{
+    width: 50%;
+    float: left;
+}
+#section2{
+    width: 50%;
+    float: right;
+
+}
+#fname {float: left;
+padding-right: 20px;}
+#fname input{
+    font-size: 14px;
+    height: 40px;
+    border: none;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgba(245, 245, 242, 0.493);
+    display: flex;
+    flex-grow: 1;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: 10px;
+}
+#Lname input{
+    font-size: 14px;
+    height: 40px;
+    border: none;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgba(245, 245, 242, 0.493);
+    display: flex;
+    flex-grow: 1;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: 10px;
+}
+#gender {float: left;
+    padding-right: 20px;}
+    #gender select{
+        font-size: 14px;
+        height: 40px;
+        border: none;
+        width: 250px;
+        border-radius: 5px;
+        background-color: rgba(245, 245, 242, 0.493);
+        display: flex;
+        flex-grow: 1;
+        box-sizing: border-box;
+        position: relative;
+        margin-top: 10px;}
+        #date input{
+            font-size: 14px;
+            height: 40px;
+            border: none;
+            width: 250px;
+            border-radius: 5px;
+            background-color: rgba(245, 245, 242, 0.493);
+            display: flex;
+            flex-grow: 1;
+            box-sizing: border-box;
+            position: relative;
+            margin-top: 10px;
+        }
+        #email {float: left;
+            padding-right: 20px;}
+            #email input{
+                font-size: 14px;
+                height: 40px;
+                border: none;
+                width: 250px;
+                border-radius: 5px;
+                background-color: rgba(245, 245, 242, 0.493);
+                display: flex;
+                flex-grow: 1;
+                box-sizing: border-box;
+                position: relative;
+                margin-top: 10px;}
+                
+                    #number input{
+                        font-size: 14px;
+                        height: 40px;
+                        border: none;
+                        width: 250px;
+                        border-radius: 5px;
+                        background-color: rgba(245, 245, 242, 0.493);
+                        display: flex;
+                        flex-grow: 1;
+                        box-sizing: border-box;
+                        position: relative;
+                        margin-top: 10px;}
+                        #country {float: left;
+                            padding-right: 20px;}
+                            #country select{
+                                font-size: 14px;
+                                height: 40px;
+                                border: none;
+                                width: 250px;
+                                border-radius: 5px;
+                                background-color: rgba(245, 245, 242, 0.493);
+                                display: flex;
+                                flex-grow: 1;
+                                box-sizing: border-box;
+                                position: relative;
+                                margin-top: 10px;}
+
+                                #State input{
+                                    font-size: 14px;
+                                    height: 40px;
+                                    border: none;
+                                    width: 250px;
+                                    border-radius: 5px;
+                                    background-color: rgba(245, 245, 242, 0.493);
+                                    display: flex;
+                                    flex-grow: 1;
+                                    box-sizing: border-box;
+                                    position: relative;
+                                    margin-top: 10px;}
+
+                                    
+                                        #how select{
+                                            font-size: 14px;
+                                            height: 40px;
+                                            border: none;
+                                            width: 250px;
+                                            border-radius: 5px;
+                                            background-color: rgba(245, 245, 242, 0.493);
+                                            display: flex;
+                                            flex-grow: 1;
+                                            box-sizing: border-box;
+                                            position: relative;
+                                            margin-top: 10px;}
+                                            #Password {float: left;
+                                                padding-right: 20px;}
+                                                #Password input{
+                                                    font-size: 14px;
+                                                    height: 40px;
+                                                    border: none;
+                                                    width: 250px;
+                                                    border-radius: 5px;
+                                                    background-color: rgba(245, 245, 242, 0.493);
+                                                    display: flex;
+                                                    flex-grow: 1;
+                                                    box-sizing: border-box;
+                                                    position: relative;
+                                                    margin-top: 10px;}
+                                                    #Cpassword input{
+                                                        font-size: 14px;
+                                                        height: 40px;
+                                                        border: none;
+                                                        width: 250px;
+                                                        border-radius: 5px;
+                                                        background-color: rgba(245, 245, 242, 0.493);
+                                                        display: flex;
+                                                        flex-grow: 1;
+                                                        box-sizing: border-box;
+                                                        position: relative;
+                                                        margin-top: 10px;}
+                        
+            
